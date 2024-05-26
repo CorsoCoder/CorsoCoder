@@ -5,12 +5,13 @@
 
 <p align="center">
   <img src="https://web.archive.org/web/20040409202342/http://www.geocities.com:80/artists_tzora/images/flowerbar.gif">
+  <img src="https://github.com/CorsoCoder/CorsoCoder/assets/45120484/8a528e0f-41e5-451c-a3fd-74208973c4cd.gif">
 </p>
 
 <div id="PRESENTACION" align="center">
-  <img style="height:50px; width:auto;" src="https://github.com/CorsoCoder/CorsoCoder/assets/45120484/496dfc87-4d2e-4fc5-abd9-3c10c0682c7b" alt="Presentación">
+  <!--<img style="height:50px; width:auto;" src="https://github.com/CorsoCoder/CorsoCoder/assets/45120484/496dfc87-4d2e-4fc5-abd9-3c10c0682c7b" alt="Presentación">
   <br>
-  <img style="height:50px; width:auto;" src="https://github.com/CorsoCoder/CorsoCoder/assets/45120484/1006c631-dc03-4368-93f3-1a871ae63db3" alt="Presentación">
+  <img style="height:50px; width:auto;" src="https://github.com/CorsoCoder/CorsoCoder/assets/45120484/1006c631-dc03-4368-93f3-1a871ae63db3" alt="Presentación">-->
   <p> un apasionado del ARTE y la PROGRAMACIÓN, y estos son.. </p>
 </div>
 
