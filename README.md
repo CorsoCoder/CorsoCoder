@@ -28,7 +28,11 @@
 <div align="center">
 
 <span style="font-size: 1.2em; color: #333;">
-📚 <a href="https://github.com/CorsoCoder/orgaLib" style="color: #0e75b6; text-decoration: none;">Convertir <strong>orgaLib</strong></a> en una biblioteca online de PDFs.
+📚 <del>
+  <a href="https://github.com/CorsoCoder/orgaLib" style="color: #0e75b6; text-decoration: none;">
+    Convertir <strong>orgaLib</strong></a> en una biblioteca online de PDFs
+    </del>
+  <a href="https://github.com/CorsoCoder/PDFLib" tyle="color: #0e75b6; text-decoration: none;">PDFLib</a>
 </span>
 
 <br>
@@ -71,7 +75,7 @@
 <div align="center">
 
 <span style="font-size: 1.2em; color: #333;">
-📚 <a href="https://github.com/CorsoCoder/orgaLib" style="color: #0e75b6; text-decoration: none;">una biblioteca online. </a>
+📚 <a href="https://github.com/CorsoCoder/PDFLib" style="color: #0e75b6; text-decoration: none;">una biblioteca online. </a>
 </span>
 
 <br>
