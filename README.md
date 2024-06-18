@@ -50,7 +50,7 @@
 <br>
 
 <span style="font-size: 1.2em; color: #333;">
-🚀 <a href="https://lacripta.pythonanywhere.com/" style="color: #0e75b6; text-decoration: none;">Mejorar el rendimiento de mi  <strong>portfolio</strong></a> y actualizar el hosting.
+🚀 <del><a href="https://lacripta.pythonanywhere.com/" style="color: #0e75b6; text-decoration: none;">Mejorar el rendimiento de mi  <strong>portfolio</strong></a> y actualizar el hosting.</del><a href="https://www.lacripta.art">www.LaCripta.art</a>
 </span>
 
 <br>
