@@ -114,7 +114,7 @@
 
 @@ 👨‍💻 Todos mis proyectos están en mi perfil, ¡no dudes en echarles un vistazo, puede que te sorprendan! @@
 
-! 📫 Contacto: alvaroverdeguer@gmail.com
+! 📫 Contacto: alvaroverdeguertrabajo@gmail.com
 ``` 
 
 <br>
@@ -168,11 +168,11 @@
 <div align="center">
   <h3>Contacto</h3>
   <p>Si estás interesado en contratarme para algún proyecto o colaboración, no dudes en contactarme a través de mi correo electrónico:</p>
-  <p><strong>alvaroverdeguer@gmail.com</strong></p>
+  <p><strong>alvaroverdeguertrabajo@gmail.com</strong></p>
   <p>Estoy abierto a nuevas oportunidades y desafíos en el campo de la programación y el arte digital.</p>
   <p align="center">
-    <a href="https://linkedin.com/in/alvaro-verdeguer-aaa30a249" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro-verdeguer-aaa30a249" height="30" width="40" />
+    <a href="https://linkedin.com/in/alvaro-verdeguer" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro-verdeguer" height="30" width="40" />
     </a>
   </p>
 </div>
