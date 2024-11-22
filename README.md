@@ -76,10 +76,11 @@
 
 <div align="center">
 
+<del>
 <span style="font-size: 1.2em; color: #333;">
 📚 <a href="https://github.com/CorsoCoder/PDFLib" style="color: #0e75b6; text-decoration: none;">una biblioteca online. </a>
 </span>
-
+</del>
 <br>
 
 <span style="font-size: 1.2em; color: #333;">
@@ -89,14 +90,19 @@
 <br>
 
 <span style="font-size: 1.2em; color: #333;">
-🎨 <a href="https://lacripta.pythonanywhere.com/" style="color: #0e75b6; text-decoration: none;">mi portfolio artístico. </a>
+📷 <a href="https://github.com/CorsoCoder/MODT" style="color: #0e75b6; text-decoration: none;">programa de edición de fotos. </a>
 </span>
 
 <br>
 
+<del>
 <span style="font-size: 1.2em; color: #333;">
-📷 <a href="https://github.com/CorsoCoder/MODT" style="color: #0e75b6; text-decoration: none;">programa de edición de fotos. </a>
+🎨 <a href="https://lacripta.pythonanywhere.com/" style="color: #0e75b6; text-decoration: none;">mi portfolio artístico. </a>
 </span>
+</del>
+
+<br>
+
 
 <br>
 
