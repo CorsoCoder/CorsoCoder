@@ -23,93 +23,48 @@
 <br>
 <br>
 
-
 # $${\color{lightgreen} MIS \space PROYECTOS!🎉 }$$
 
 
 <div align="center">
 
-<span style="font-size: 1.2em; color: #333;">
-📚 <del>
-  <a href="https://github.com/CorsoCoder/orgaLib" style="color: #0e75b6; text-decoration: none;">
-    Convertir <strong>orgaLib</strong></a> en una biblioteca online de PDFs
-    </del>
-  <a href="https://github.com/CorsoCoder/PDFLib" tyle="color: #0e75b6; text-decoration: none;">PDFLib</a>
-</span>
+  <span style="font-size: 1.2em; color: #333;">
+  📚 <del>
+    <a href="https://github.com/CorsoCoder/orgaLib" style="color: #0e75b6; text-decoration: none;">
+      Convertir <strong>orgaLib</strong></a> en una biblioteca online de PDFs
+      </del>
+    <a href="https://lacripta.art/library/" tyle="color: #0e75b6; text-decoration: none;">PDFLib</a>
+  </span>
+  <br>
+  
+  <del>
+  <span style="font-size: 1.2em; color: #333;">
+  🌐 <a href="#" style="color: #0e75b6; text-decoration: none;">Diseñar mi hub de páginas web</a> para acceder a todas desde un mismo punto.
+  </span>
+  </del>
+  
+  <br>
 
-<br>
-
-<span style="font-size: 1.2em; color: #333;">
-💬 <a href="https://lacripta.art" style="color: #0e75b6; text-decoration: none;">Terminar mi chat</a> con puro PHP.
-</span>
-
-<br>
-
-<span style="font-size: 1.2em; color: #333;">
-🌐 <a href="#" style="color: #0e75b6; text-decoration: none;">Diseñar mi hub de páginas web</a> para acceder a todas desde un mismo punto.
-</span>
-
-<br>
-
-<span style="font-size: 1.2em; color: #333;">
-🚀 <del><a href="https://lacripta.pythonanywhere.com/" style="color: #0e75b6; text-decoration: none;">Mejorar el rendimiento de mi  <strong>portfolio</strong></a> y actualizar el hosting.</del><a href="https://www.lacripta.art">www.LaCripta.art</a>
-</span>
-
-<br>
-
-<span style="font-size: 1.2em; color: #333;">
-🤖 <a href="#" style="color: #0e75b6; text-decoration: none;">Desarrollar un chatbot</a> con Node.js.
-</span>
-
+  <span style="font-size: 1.2em; color: #333;">
+  🚀 <del><a href="https://lacripta.art/library/" style="color: #0e75b6; text-decoration: none;">Mejorar el rendimiento de mi  <strong>portfolio</strong></a> y actualizar el hosting.</del><a     href="https://www.lacripta.art">www.LaCripta.art</a>
+  </span>
+  
+  <br>
+  
+  <span style="font-size: 1.2em; color: #333;">
+  🤖 <a href="#" style="color: #0e75b6; text-decoration: none;">Desarrollar un chatbot</a> con Node.js.
+  </span>
+  
+  <span style="font-size: 1.2em; color: #333;">
+  📷 <a href="https://github.com/CorsoCoder/MODT" style="color: #0e75b6; text-decoration: none;">programa de edición de fotos. </a>
+  </span>
+  <br>
+  
+  <span style="font-size: 1.2em; color: #333;">
+      ...ASI QUE ESTATÉ ATENTO❗❗
+  </span>
 </div>
 
-<br>
-<br>
-
-<div align="center" style="padding: 20px; border: 2px solid #0e75b6; border-radius: 10px; box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); background-color: #f9f9f9;">
-  <h1 style="color: lightgreen; font-size: 2.5em; text-shadow: 2px 2px 5px #000;">
-    ¡MI GRAN PRÓXIMO PROYECTO! 🚀
-  </h1>
-  <h3>Un HUB  que reuna todas mis páginas web con un estilo unico!</h3>
-</div>
-
-
-<div align="center">
-
-<del>
-<span style="font-size: 1.2em; color: #333;">
-📚 <a href="https://github.com/CorsoCoder/PDFLib" style="color: #0e75b6; text-decoration: none;">una biblioteca online. </a>
-</span>
-</del>
-<br>
-
-<span style="font-size: 1.2em; color: #333;">
-🤖chatbot con node.js.
-</span>
-
-<br>
-
-<span style="font-size: 1.2em; color: #333;">
-📷 <a href="https://github.com/CorsoCoder/MODT" style="color: #0e75b6; text-decoration: none;">programa de edición de fotos. </a>
-</span>
-
-<br>
-
-<del>
-<span style="font-size: 1.2em; color: #333;">
-🎨 <a href="https://lacripta.pythonanywhere.com/" style="color: #0e75b6; text-decoration: none;">mi portfolio artístico. </a>
-</span>
-</del>
-
-<br>
-
-
-<br>
-
-<span style="font-size: 1.2em; color: #333;">
-    ...ASI QUE ESTATÉ ATENTO❗❗
-</span>
-</div>
 
 <br>
 <br>
